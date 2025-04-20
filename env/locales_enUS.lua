@@ -39,6 +39,7 @@ ShaguPlates_locale["enUS"]["hunterpaging"] = {
 ShaguPlates_locale["enUS"]["customcast"] = {
   ["AIMEDSHOT"] = "Aimed Shot",
   ["MULTISHOT"] = "Multi-Shot",
+  ["STEADYSHOT"] = "Steady Shot",
 }
 
 ShaguPlates_locale["enUS"]["critters"] = {
