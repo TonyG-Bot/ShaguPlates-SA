@@ -19,20 +19,24 @@ ShaguPlates_locale["esES"]["healduration"] = {
 
 ShaguPlates_locale["esES"]["bagtypes"] = {
   ["Carcaj"] = "QUIVER",
-  ["Bolsa de almas"] = "SOULBAG",
+  --["Bolsa de almas"] = "SOULBAG",
+  ["Bolsa de Almas"] = "SOULBAG",--SA
   ["Bolsa"] = "DEFAULT",
 }
 
 ShaguPlates_locale["esES"]["itemtypes"] = {
   ["INVTYPE_WAND"] = "Varita",
-  ["INVTYPE_THROWN"] = "Arma arrojadiza",
-  ["INVTYPE_GUN"] = "Arma de fuego",
+  --["INVTYPE_THROWN"] = "Arma arrojadiza",
+  ["INVTYPE_THROWN"] = "Arma Arrojadiza",--SA
+  --["INVTYPE_GUN"] = "Arma de fuego",
+  ["INVTYPE_GUN"] = "Arma de Fuego",--SA
   ["INVTYPE_CROSSBOW"] = "Ballesta",
   ["INVTYPE_PROJECTILE"] = "Proyectil",
 }
 
 ShaguPlates_locale["esES"]["hunterpaging"] = {
-  ["MELEE"] = "Cortar alas",
+  --["MELEE"] = "Cortar alas",
+  ["MELEE"] = "Corte de Alas",--SA
   ["RANGED"] = "Disparo Arcano",
 }
 
