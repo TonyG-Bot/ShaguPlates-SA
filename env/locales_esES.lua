@@ -134,6 +134,10 @@ ShaguPlates_locale["esES"]["critters"] = {
   'Voz de Elune',
   'Waypoint',
   'Fuego fatuo',
+  'Cerdo',
+  'Cuervo',
+  'Gallina',
+  'Vibora',
 }
 
 ShaguPlates_locale["esES"]["dyndebuffs"] = {
