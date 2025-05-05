@@ -213,9 +213,11 @@ ShaguPlates_locale["esES"]["interrupts"] = {
 
 ShaguPlates_locale["esES"]["resurrections"] = {
   ["Resurrección"] = true,
-  ["Renacer"] = true,
+  --["Renacer"] = true,
+  ["Renacimiento"] = true,--SA
   ["Redención"] = true,
-  ["Espíritu ancestral"] = true,
+  --["Espíritu ancestral"] = true,
+  ["Espíritu Ancestral"] = true,--SA
 }
 
 ShaguPlates_locale["esES"]["spells"] = {
