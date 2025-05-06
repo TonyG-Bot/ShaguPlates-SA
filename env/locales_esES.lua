@@ -138,6 +138,8 @@ ShaguPlates_locale["esES"]["critters"] = {
   'Cuervo',
   'Gallina',
   'Vibora',
+  'Rata Contaminada',
+  'Cucaracha Contaminada',
 }
 
 ShaguPlates_locale["esES"]["dyndebuffs"] = {
