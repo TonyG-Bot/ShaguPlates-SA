@@ -1,5 +1,5 @@
 ## Interface: 11200
-## Title: |cff33ffccShagu|cffffffffPlates
+## Title: |cff33ffccShagu|cffffffffPlates |cff008000Turtle|r SA
 ## Author: Shagu
 ## Notes: Versión modificada de ShaguPlates para Turtle WoW SA.
 ## Notes-enUS: Nameplate addon featuring castbars, class colors and much more. Type /splates to show the settings.
